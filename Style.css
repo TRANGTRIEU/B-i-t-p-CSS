@@ -1,0 +1,43 @@
+
+#menu ul li {
+                display: inline;
+                text-align: center;
+                
+			}
+#menu ul a {
+				width: 110px;
+				float: left;
+				text-decoration: none;
+				font-weight: bold;
+                color:#8A2BE2;
+                font-family: "Time New Roman";
+                font-size: 3,5em;     
+            }
+.footer     {
+				float: left;
+				width: 20%;
+				height:180px;
+				background-color:#696969;
+                color: white;
+                
+            }
+.Ảnh       { 
+               float: left; 
+               width:741px; 
+               height:350px; 
+               margin-top: 40px auto
+
+               }
+.Chinhanh  { 
+             float: left; 
+             width: 300px;
+             height: 376px;            
+            margin-right: 30px;
+            margin-left: 100px;
+             background-color:#FFFFE0;
+             
+            }
+.sach1 h1{ margin-top: 40px;
+       text-align-last: center;}
+#Đồ dùng h1 { font-family: 'Times New Roman', Times, serif;}
+#Đồ dùng{ margin-bottom: 40px;}
